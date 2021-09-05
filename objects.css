@@ -1,0 +1,35 @@
+h1{
+    text-align: center;
+}
+
+h2{
+    color: rgb(105, 255, 235);
+    text-align:center;
+}
+
+h3{
+    color: white;
+    text-align: center;
+}
+
+.links{
+    text-align: center;
+    color: yellow
+}
+
+.head{
+    color: white
+}
+
+.jupiter{
+    color: red
+}
+
+.header *{
+    border: solid;
+}
+ .header{
+     background-color: rgb(255, 6, 243);
+     display: flex;
+     justify-content: space-between;
+ }
